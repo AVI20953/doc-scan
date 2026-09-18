@@ -1,0 +1,33 @@
+{
+  "input_path": "samples/sample.jpg",
+  "status": "success",
+  "detected_corners": [
+    [
+      180.0,
+      160.5
+    ],
+    [
+      829.5,
+      219.0
+    ],
+    [
+      769.5,
+      1039.5
+    ],
+    [
+      130.5,
+      960.0
+    ]
+  ],
+  "output_paths": {
+    "detected_boundary": "results/detected_boundary.jpg",
+    "scanned_color": "results/scanned_color.jpg",
+    "scanned_gray": "results/scanned_gray.jpg",
+    "scanned_bw": "results/scanned_bw.png",
+    "debug_gray": "results/debug_gray.jpg",
+    "debug_edges": "results/debug_edges.jpg",
+    "debug_closed": "results/debug_closed.jpg"
+  },
+  "processing_time_seconds": 0.089,
+  "error": null
+}
