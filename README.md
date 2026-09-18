@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 # doc-scan
 A Python and OpenCV document scanner that detects page boundaries, corrects perspective distortion, and generates color, grayscale, and black-and-white scans. Runs entirely from the command line, with optional debug images and JSON processing summaries.
-=======
 # DocuScan: Automatic Document Detection and Perspective Correction Using OpenCV
 
 DocuScan is a lightweight, fully automated Computer Vision application built with Python and OpenCV. It detects rectangular document pages in photographic images, corrects perspective distortions, and generates high-contrast scanned document images (color, grayscale, and adaptive black-and-white).
